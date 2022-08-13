@@ -1,6 +1,10 @@
 
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
+example
+src/index.test.js
+
+
 # dependencies
 node_modules
 
